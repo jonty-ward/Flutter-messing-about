@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/messing_about.iml" filepath="$PROJECT_DIR$/messing_about.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/messing_about_android.iml" filepath="$PROJECT_DIR$/android/messing_about_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/messin.iml" filepath="$PROJECT_DIR$/messin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/messin_android.iml" filepath="$PROJECT_DIR$/android/messin_android.iml" />
     </modules>
   </component>
 </project>

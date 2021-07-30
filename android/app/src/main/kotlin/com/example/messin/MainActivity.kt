@@ -1,4 +1,4 @@
-package com.example.messing_about
+package com.example.messin
 
 import io.flutter.embedding.android.FlutterActivity
 
