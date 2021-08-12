@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.messin">
+    package="com.example.messin_stuff">
    <application
-        android:label="messin"
+        android:label="messin_stuff"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

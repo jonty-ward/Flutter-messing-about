@@ -1,6 +1,6 @@
 {
-    "name": "messin",
-    "short_name": "messin",
+    "name": "messin_stuff",
+    "short_name": "messin_stuff",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
